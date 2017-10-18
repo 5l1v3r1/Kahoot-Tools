@@ -1,0 +1,4 @@
+module Kahoot::Session
+
+
+end
